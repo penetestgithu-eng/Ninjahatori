@@ -1,0 +1,15 @@
+# Penetration Testing Tool Dependencies
+
+# Add your dependencies below
+
+requests
+scapy
+beautifulsoup4
+telnetlib3
+paramiko
+nmap
+pytest
+pytest-html
+sqlalchemy
+flask
+flask-restful
